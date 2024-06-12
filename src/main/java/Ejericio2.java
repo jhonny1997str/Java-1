@@ -22,7 +22,7 @@ public class Ejericio2 {
             for(int i = 1; i <= a; i++ ){
                 if(i % 2 ==1){
                     System.out.print(i + " ,");
-                    System.out.println("\nLos numeros impares son : ");
+                    System.out.println("\nLos numeros impares sonn : ");
                 }
             }
         }
